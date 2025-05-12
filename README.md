@@ -1,4 +1,5 @@
 # CopyPasteEx-Addin-for-twinBASIC
+![CopyPasteEx](https://github.com/user-attachments/assets/7e1985cd-e147-46bc-ad5d-15d22fdd2b38)
 
 The CopyPasteEx add-in enhances file management within twinBASIC by introducing a seamless 
 copy/paste capability for Project Explorer Files across multiple twinBASIC instances. 
