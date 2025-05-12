@@ -24,9 +24,13 @@ Features:
    - Hidden items
    - Items inside special folder's path (except Sources and Resources)
      e.g. \Packages\VB\CHANGELOG.md   		cannot be copied
+     
           \References\stdole          		cannot be copied
+     
           \Sources\Form1.twin         		can be copied
+     
           \Resources\ICON\twinBASIC.ico	   	can be copied
+     
 
 
 
