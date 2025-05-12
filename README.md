@@ -24,6 +24,7 @@ Features:
    - Hidden items
    - Items inside special folder's path (except Sources and Resources)
      e.g.
+     
           \Packages\VB\CHANGELOG.md   		cannot be copied
      
           \References\stdole          		cannot be copied
